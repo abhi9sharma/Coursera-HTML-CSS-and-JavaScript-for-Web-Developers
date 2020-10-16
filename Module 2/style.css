@@ -92,7 +92,7 @@ h1 {
     width: 100px;
   }
 }
-
+/********** Small device only ***********/
 @media (min-width: 0px) and (max-width: 767px) {
   .col-sm-12 {
   	float: left;
